@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Lipkis/Interior-Consultant-LP/">
+    <a href="https://github.com/Daniel-Ezekiel/Chef-Tasty-s-Recipe-Page/">
       Solution
     </a>
     <span> | </span>
@@ -36,8 +36,8 @@
 
 ## Overview
 
-![Mobile](https://github.com/Lipkis/Interior-Consultant-LP/blob/main/images/screenshots/Desktop%20-%20Prima%20Interiors.png)
-![Desktop](https://github.com/Lipkis/Interior-Consultant-LP/blob/main/images/screenshots/Mobile%20-%20Prima%20Interiors.png)
+![Mobile](https://github.com/Daniel-Ezekiel/Chef-Tasty-s-Recipe-Page/blob/main/images/screenshots/Mobile%20-%20screenshot.png)
+![Desktop](https://github.com/Daniel-Ezekiel/Chef-Tasty-s-Recipe-Page/blob/main/images/screenshots/Desktop%20-%20screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
